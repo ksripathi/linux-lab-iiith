@@ -511,7 +511,27 @@ aditi@mylaptop:~$</pre>
 
         </section>
 
-    
+    <section id="experiment-article-section-7">
+
+          <div id="experiment-article-section-7-icon" 
+          class="icon">
+            <!-- Enclose the icon image of your lab.-->
+            <img src="../images/readings.jpg" />
+          </div>
+
+          <div id="experiment-article-section-7-heading" 
+          class="heading">
+	
+	Feedback
+          </div>
+
+          <div id="experiment-article-section-7-content" 
+          class="content">
+	Please provide us feedback <a href="http://virtual-labs.ac.in/feedback/" >here</a>
+          </div>
+
+        </section>
+
 
       </div>
 
